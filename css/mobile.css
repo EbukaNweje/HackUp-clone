@@ -1,0 +1,13 @@
+@media (max-width: 900px){
+    nav {
+        display: none;
+    }
+
+    .MobileMenu {
+        display: block;
+    }
+
+    .Logo img {
+        width: 100%;
+    }
+}
